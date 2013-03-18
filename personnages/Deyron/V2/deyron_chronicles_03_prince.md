@@ -6,7 +6,7 @@
 Le Prince est mort...
 =====================
 
-*"Les enfers ne sont pas un concept abstrait. C'est un nom unique pour une multitude. Un emblême, un cri de ralliement. Etre le coeur brulant de tout celà, voilà ce que j'appelle être Seigneur Démon!"*
+*"Les enfers ne sont pas un concept abstrait. C'est un nom unique pour une multitude. Un emblême, un cri de ralliement. Etre le coeur brulant de tout celà, voilà ce que j'appelle être Seigneur Démon!"*  
 -- **Deyron - Seigneur de la Guerre** in *Brave new hell*
 
 
@@ -30,7 +30,7 @@ Vide, attendant son maitre comme il l'a toujours fait, impassible. Ses gravures 
 En cet instant, pourtant, tout est joué le concernant. Quelque chose est arrivé!
 
 *Le trône ne peut rester inoccupé, car celà est contraire à la nature même des enfers. Il est le point d'équilibre, la clé de voute sans laquelle rien n'est possible. Les enfers sont voués à dépérir en l'absence de leur Prince. C'est ce qui est arrivé par le passé. Mais en cet instant, pourtant, les forces démoniaques se redressent. Un frémissement se fait sentir sous la peau de milliers de démons. Un sentiment d'allegresse, de puissance, de conscience, d'éveil.*  
-Quelque chose est arrivé!
+*Quelque chose est arrivé!*
 
 Soudain, il arrive, telle une tempête. Grand, sombre, fiers, il ouvre les portes du sanctuaire. Du coeur même des enfers.Tous se tournent vers lui. Tous savent déjà.  
 Quelque chose est arrivé!
