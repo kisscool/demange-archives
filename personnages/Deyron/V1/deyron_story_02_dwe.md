@@ -5,15 +5,12 @@
 La DWE
 ======
 
-*
-Ce document a été retrouvé dans les ruines de la première académie DWE. Les détails qui y sont donnés permettent d'identifier leur auteur comme étant Deyron, ancien élève, puis professeur de la DWE, avant de connaitre le glorieux destin que content les livres d'histoires.
-Nos historiens ont remarqué qu'une version écourtée de ce même texte figurait dans les chroniques de la fondation de la prestigieuse école démoniaque. L'antériorité ou la postériorité de cette version par rapport aux chroniques reste indéterminée.
-Il en est de même concernant l'identité du destinataire.
-*
+*Ce document a été retrouvé dans les ruines de la première académie DWE. Les détails qui y sont donnés permettent d'identifier leur auteur comme étant Deyron, ancien élève, puis professeur de la DWE, avant de connaitre le glorieux destin que content les livres d'histoires. Nos historiens ont remarqué qu'une version écourtée de ce même texte figurait dans les chroniques de la fondation de la prestigieuse école démoniaque. L'antériorité ou la postériorité de cette version par rapport aux chroniques reste indéterminée. Il en est de même concernant l'identité du destinataire.*
 
-La boue.
-La pluie et la boue.
-Voilà ce que j'ai retenu de E3, mon ami.
+
+La boue.  
+La pluie et la boue.  
+Voilà ce que j'ai retenu de E3, mon ami.  
 La pluie, la boue et la mort, pour être plus précis. Le genre de souvenirs sur lesquels on n'aime guère s'étendre, vous le reconnaitrez. Mais allons! Seuls les pleutres et les idiots ressassent éternellement le passé sans en tirer quelque enseignement. Laissez moi donc vous conter cette période de mon existence.
 
 Il ne s'agissait pas de l'E3 d'aujourd'hui. A l'occasion d'obscurs remaniements bureaucratiques, elle a pris le nom de E4 peu de temps après, mais à l'époque c'était différent. Le monde était plus petit alors, l'air que je respirais me semblait plus pur, nulle responsabilité ne pesait sur mes épaules, la joie de la bataille n'était ternie par aucune tristesse, et les anges étaient beaucoup, beaucoup plus près!
@@ -23,9 +20,9 @@ Mais fondamentalement, la raison de cette débandade n'était pas mon affaire. L
 En chemin, je lus un tract collé à un mur. Il parlait d'école de formation, d'acquérir des compétences, de devenir un guerrier digne des meilleurs troupes infernale. J'y répondis. Le temps que j'arrive jusqu'au front, la fée Mauvette, alors responsable de l'école, et que nous regrettons tous de ne pas avoir à nos côtés en ces temps troublés, m'avait envoyé un brassart orné des lettres "DWE". Comme vous pouvez le deviner, j'étais alors plein d'espoir.
 Je devais promptement déchanter.
 
-La boue.
-La pluie et la boue.
-Toujours eux. Toujours...
+La boue.  
+La pluie et la boue.  
+Toujours eux. Toujours...  
 Le temps avait passé et la situation s'était enlisée en une quasi-catastrophe permanente. Je me trouvais au sud du front avec des compagnons d'armes de toute sorte: des fiers, des peureux, des régulateurs, des zombies, des courageux, des boulets, des gradés, des pouilleux... Nous n'avions tous qu'une seule chose en commun: Nous étions jeunes et terriblements inexpérimentés. En face de nous se trouvaient des troupes angéliques de choc. Des vieux de la vieilles qui se gaussaient de nous. Nos coups ne les touchaient que trop peu, et les notres tombaient trop rapidement. Notre moral avait atteint ce niveau que seul peuvent atteindre les vétérans désabusés et les jeunes recrues venant de perdre toute illusion: celui où vivre n'a plus d'importance.
 La pluie tombait, la terre se transformait en boue, et moi j'attendais. J'attendais des nouvelles du front nord. Nouvelles qui ne venaient pas. J'attendais des instructions de la part de mon école, cette fameuse DWE dont le brassart était maintenant jaunis et taché de sang. Instructions qui ne venaient pas. J'attendais des nouvelles de la terrible bataille qui se déroulait dans les Ombres à ce moment là. On disait que Mauvette s'y était rendu, mais on n'en disait pas plus.
 
