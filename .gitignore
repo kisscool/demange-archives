@@ -1,0 +1,5 @@
+# VIM
+*.swp
+# Various
+tmp/
+
