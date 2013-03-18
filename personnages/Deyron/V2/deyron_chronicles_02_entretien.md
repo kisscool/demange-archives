@@ -67,4 +67,4 @@ Les brumes s'enroulaient autour des deux Seigneurs, qui se faisaient face. Moloc
 
 Le Seigneur Moloch tendit à Deyron quelques cartes, faces cachées. Sur la première d'entre elle figurait un Sabre gravé de symboles cabalistiques. Sur la seconde, un Trône imposant accaparait l'attention. Lorsque Deyron eut retourné la dernière carte, et ait examiné l'Homme qui y était représenté, il réalisa que le Seigneur du Temps n'était plus là. Engloutit dans les brumes du temps, avec ses questions et ses mystères. Partit pour un dernier voyage dont nul ne saurait jamais rien.
 
-Au bord du lac, seul, le nouveau Prince rangea ses cartes et se mit en marche...vers les enfers.
+Au bord du lac, seul, le nouveau Prince rangea ses cartes et se mit en marche... *vers les enfers.*
