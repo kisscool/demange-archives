@@ -19,20 +19,20 @@ Notre malade initialement violent, que je nommerais sujet A, a agressé un des l
 
 On a annoncé l'arrivée de nouveaux cas, et j'ai un mauvais pressentiment.
 
-**Jour 3:** 
+**Jour 3:**   
 Les malades B et C ont évolués vers ce qui apparait maintenant comme étant le stade finale de la maladie. Ils semblent être devenus aussi déments que le sujet A, alternant phases de catatonie profonde et crises de rages impressionantes.
 Le laborantin blessé semble infecté, et on nous a apporté trois nouveaux malades qui semblent être au même stade que B et C à leurs débuts.
 
 J'ai parié ma chemise avec Philouz que la maladie va se développer de la même manière chez eux. Il est persuadé que nous trouverons forcement des variations, mais moi j'ai le pressentiment que cette saleté va se comporter avec la régularité d'un métronome.
 
-**Jour 5:** 
+**Jour 5:**  
 La folie. Deux jours de folie. J'avais vu juste et tous nos sujets ont évolués d'une façon exactement identique. Ce que je n'avais pas prévu, c'était leur réaction à notre premier essai de médication. Le sujet B sur lequel nous avons testé notre traitement en est mort, et tous les autres ont parus réagir à l'unisson avec lui, en développant une force que nous ne leur avions jamais vu et qui leur a permis de se libérer de leurs camisoles pour sacager les laboratoires.
 Celà nous fait six infectés et huit personnes en quarantaines parmis les chercheurs.
 
 Et encore, ce n'est rien comparé aux nouvelles qui nous parviennent de l'extérieur. L'épidémie s'est propagée d'une façon foudroyante, atteignant aussi bien les démanges que les humains.
 Je me demande si nous trouverons un remède à temps.
 
-**Jour 7:** 
+**Jour 7:**  
 Nous avons dû abattre certains de nos malades. Nous n'avions plus de cellules d'isolements où les enfermer. C'est tout ce que nous avons trouvé pour les empécher de s'échapper et de tout sacager encore une fois. Le Paradis Artificiel est maintenant entouré de forces hostiles et les derniers défenseurs se sont repliés jusque dans le batiment.
 Le sentiment d'être assiégé est double: d'abord par les humains à l'extérieur, qui ne tarderont certainement pas à sucomber à la maladie si ce n'est déjà fait, et ensuite par le sentiment d'échec qui nous taraude tous, à la pensée de ne pas trouver de reméde.
 
