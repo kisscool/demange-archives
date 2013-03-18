@@ -1,6 +1,6 @@
-Titre : Réveil
-Auteur : Deyron
-
+* Titre : Réveil
+* Auteur : Deyron
+* Date : 2003
 
 Le jour se leva sur la plaine. Un lever de soleil, rouge, flamboyant, dont les rayons semblaient se perdre dans les brumes du petit matin, comme le monde en avait déjà vu un million de fois et comme il en verrait certainement bien d'autre avant la fin de la grande histoire. Il importe peu au monde de connaitre l'issue des batailles et des guerres. Il importe peu au soleil de darder ses rayons sur une silhouette isolée dans la plaine, plutôt que sur l'herbe tendre.
 Et pourtant, celà change tout!
