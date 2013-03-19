@@ -1,0 +1,27 @@
+* Titre : Le damier
+* Auteur : Deyron
+* Date : 2004
+
+*"Le damier est le bien supprème, à la fois cause de liberté pour les hommes qui l'applique et principe de commandement que chaque individu sur son propre front exerce sur autrui."*
+Gorgias dans *Gorgias* de Platon. Traduction par Deyron.
+
+S'il n'était qu'une seule règle à respecter, ce serait certainement celle du damier. Base même de la tactique démoniaque, garant de notre supériorité sur les anges, des batailles ont étés remportées ou perdus selon la rigueur de son application. Ne vous étonnez donc pas d'en entendre constamment parler: le respecter et le faire respecter est la préocupation majeur de la plupart des combattants démoniaques.
+
+La structure du damier est simplissime. Il s'agit de se positionner par rapport aux autres démons afin de former un...damier! Bravo à l'élève du premier rang pour sa perspicacité.
+Si les cases vides sont représentées par des "_" et si les démons sont représentés par des "x", un damier ressemble à ceci:
+_x_x_x_x_x_x
+x_x_x_x_x_x_
+_x_x_x_x_x_x
+x_x_x_x_x_x_
+_x_x_x_x_x_x
+
+Allez donc observer attentivement votre carte GPS. Vous pourrez certainement admirer de nombreux damiers sur les fronts. De manière générale, vous remarquerez en suivant l'évolution des fronts sur la carte que le damier procure un avantage à celui qui l'applique. Une horde de démons en damier, même en infériorité numérique, face à un mur d'anges érodera le mur rapidement sans pertes trop importantes (pour peu que le déséquilibre ne soit tout de même pas trop important).
+
+
+D'où provient donc cet avantage? Il repose avant tout sur le déplacement. Aller d'un point à un autre en zigzagant ne prend pas plus de temps que d'y aller en ligne droite (contrairement à ce que l'on enseigne aux jeunes humains dans leurs écoles), la disposition en damier permet donc de se déplacer sans être aucunement géné par les collègues. Au delà de l'aspect purement agréable de pouvoir se promener à sa guise, celà permet aux combattants situés à l'arrière ou au milieu du damier d'aller devant pour frapper l'ennemi, et aux blessés situés devant de se replier à l'arrière pour récupérer.  
+Il est à noter que, pour faire tourner les démons présents devant et pour faire avancer le front, les démons en bonne santé au milieu ou à l'arrière du damier doivent éviter autant que possible de se replier après avoir attaqué, mais doivent chercher au contraire à occuper un place devant jusqu'à ce que d'autres fassent de même et qu'ils se retrouvent ainsi à nouveau en position arrière (avec un front qui aura ainsi avancé).
+
+La moindre anicroche dans un damier peut géner un très grand nombre de démons, c'est pour cel_ que vous devez, à chaque fois que vous vous immobilisez (et je dis bien à chaque fois), vérifier que vous respecter le placement standard du damier. Ce dernier est dit pair-pair/impair-impair. C'est à dire que vous ne devez occuper que des cases dont les valeures en x et y sont toutes les deux paires ou toutes les deux impaires.
+
+Le respect du damier doit devenir votre raison de vivre, votre alpha et votre oméga. Ceux qui se détournent de la voie du damier ne peuvent que géner les autres et se faire des ennemis parmis les leurs. Réfléchissez y.
+

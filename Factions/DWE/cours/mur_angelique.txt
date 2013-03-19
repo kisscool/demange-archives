@@ -1,0 +1,72 @@
+* Titre : Le damier
+* Auteur : Deyron
+* Date : 2004
+
+
+Introduction
+------------
+
+Le cours d'aujourd'hui sera consacré à un sujet aussi délicat qu'important: Le mur angélique!
+
+Alors que la stratégie démoniaque repose presque exclusivement sur le damier (cf mon cours à ce sujet, pour les éléves qui fréquentent trop le radiateur), celle des anges est beaucoup moins claire. Bien qu'utilisant le damier de manière ponctuelle, ils utilisent le plus souvent son antithèse même: le mur.
+La stratégie du mur consiste simplement à amasser le plus grand nombre de combattants au même endroit, de la façon la plus compacte possible. Alors que le damier ressemble à ceci:
+_x_x_x_x_x_x
+x_x_x_x_x_x_
+_x_x_x_x_x_x
+x_x_x_x_x_x_
+
+le mur ressemble plutôt à celà:
+_xxxxxxxxxx_
+_xxxxxxxxxx_
+_xxxxxxxxxx_
+_xxxxxxxxxx_
+
+Tout d'abord, il est un point qu'il me faut préciser: Jamais, au grand jamais, le mur n'a été favorable aux démons. Bien des démons ont essayé de troquer le damier contre le mur, et ils ont tous lamentablement échoués. Vous ne devez pas tomber dans l'illusion que le mur vous apportera quoi que ce soit de plus que le damier. Il ne s'agit pour notre camp que d'une solution de dernier recours, précédant généralement de peu une défaite. Nous verrons d'ailleurs dans la suite que les anges se servent du mur d'une façon très particulière.
+
+Forces et faiblesses
+--------------------
+
+L'intéret majeur du mur saute aux yeux: il s'agit de la formation la plus compacte qui soit. Pour une aire équivalente, le mur abrite deux fois plus de combattants qu'un damier. Cette extrême densité rend la destruction d'un mur particulièrement lente et laborieuse. Il y a beaucoup de monde à éliminer, et il est impossible de se rendre de l'autre côté sans contourner la totalité du mur.
+En cette force réside évidemment la faiblesse même du mur. Si seule la première ligne peut être atteinte par nos troupes, elle est également la seule à pouvoir nous attaquer. Les troupes derrières seront certes fraiches, mais elles seront restés passives sans attaquer une seule fois jusqu'à ce que les soldats devant eux meurent. De plus, les blessés ne peuvent pas se replier et la vitesse de déplacement de la formation concurence à peine celle d'une tortue rumathisante écrabouillée par Prométhée.
+Je rajouterais que 2 fois plus de monde sur la même aire, celà implique que la zone controlée avec autant de monde est 2 fois plus petite qu'en damier. Et celui qui controle une zone plus petite que son adversaire risque fort de se faire déborder par celui ci.
+
+Le mur en défense
+-----------------
+
+Il s'agit de l'attitude "naturelle" du mur. La situation est catastrophique (style "les anges s'apprétent à pénétrer en masse aux enfers"), les troupes désorganisés, et, pour une raison ou une autre, la formation d'un damier efficace n'est pas réalisable. Dans de telle conditions, la dernière solution valable reste de former un gros mur pour empécher l'adversaire d'avancer d'avantage, voire de protéger certaines personnes importantes (généraux ou SD gravements blessés, porteurs d'artefacts sans prix...), et d'attendre que des renforts arrivent en se contentant de défendre. 
+Autant dire que si les renforts n'arrivent pas, alors c'est fichus, que dans presque tous les cas vous allez finir par en mourir, et que pour retransformer votre mur en damier, vous allez salement ramer. Bizarrement, alors qu'il est si difficile de transformer un mur en damier, il est terriblement facile de faire le contraire. Faites attention, donc.
+
+Le mur en attaque
+-----------------
+
+"Ca y est, le prof a remis ça avec la téquilla", me direz vous. "Il veut faire avancer un mur!"
+
+Et bien oui. Et je dis même que c'est faisable! C'est là que l'on se rend compte que les anges ne sont pas totalement stupides (en dépit des apparences). Alors même que faire avancer un mur relêve de l'exploit, les anges se permettent carrément d'attaquer avec. Il faut dire qu'ils s'y prennent avec subtilité.
+Une étude attentive des mouvements de troupes angéliques dénote une mécanique bien huilée dans la formation des murs (enfin, lorsqu'ils ne les forment pas dans la panique, là c'est du mur de défense classique). Tout d'abord des anges convergent séparemment vers la zone de conflit, puis une fois arrivés ils forment une simple ligne compacte pour former le front. Cette unique ligne est alimentée en nouvelles troupes depuis des zones sous controle angélique (très important ça, les pertes sont importantes avec les murs: Il faut sans cesse réalimenter). Une fois ce proto-mur réalisé, la masse d'anges présents derrière s'accroit mais, mystérieusement, ne s'assemble pas tout du suite pour compléter le mur. A celà je vois deux explications: la première est qu'ainsi, le mur peut avancer facilement afin de ne se former (et donc de devenir quasi-immobile) qu'une fois véritablement en contact avec son ennemi, la seconde est que certains généraux peuvent vouloir homogénéiser, ou au contraire déshomogénéiser, les strates du mur. Il peut être utile de mettre les jeunes devant pour fatiguer l'adversaire à moindres frais, adversaire qui ne sera plus en état de combattre les guerriers aguerris et en pleine forme de l'arrière. Néanmoins je n'ai jamais eu de preuve formelle d'une telle organisation en strate de la part des stratéges angéliques.
+
+En résumé, celà donne ça:
+_x__________ --> _x__x_______ --> _x__x__xx__x --> _xxxxxx___x_
+___x___x____ --> _x______x___ --> _x_xx____x__ --> _xxxxxxx__x_
+_______x____ --> _x_x________ --> _x___x__x___ --> _xxxxxx_x__x
+___x________ --> _x__________ --> _xx__xx_x___ --> _xxxxxx__x__
+x_____x____x --> _x__x______x --> _xx_____xx__ --> _xxxxxxx___x
+
+
+Combattre un mur
+----------------
+
+Comme je l'ai déjà dit, le mur n'est pas une formation très efficace en attaque. Vous n'aurez qu'à vous défendre contre la première ligne pour vous en sortir. En contre partie vous devrez éliminer des quantités impressionantes d'ennemis pour avancer, et si jamais le mur est correctement alimenté en troupes, vous risquez de piétiner sur place pendant un très très long moment. Il ne suffit donc pas de peler le mur adverse comme un oignon pour le vaincre, voici quelques conseils:
+- Empéchez le mur de se former! C'est encore le plus simple.
+- Créez une diversion. Attaquer en masse une porte angélique située à proximité est une bonne diversion: tous les anges du mur voudront partir pour défendre la porte. Applicable uniquement si on a du temps (les anges vont avoir du mal pour se sortir de leur propre mur) et de très grosses ressources en hommes.
+- Contournez le mur et allez attaquer l'objectif qui se trouve derrière lui, histoire de faire se sentir les anges vraiments très bêtes et ridicules.
+- Variante: encerclez les anges et grignotez les de tous les côtés, ce sera plus rapide. Il faut pour celà que vous soyez au moins aussi nombreux que les anges et qu'il y ait de la place alentours.
+- Coupez les lignes de ravitaillements. Celà aussi accélérera bien les choses. Mais gare à ne pas êtres pris en tenaille entre deux murs.
+- Repérez ceux qui organisent le mur et les tuer en priorité. Pas facile, et pas forcément efficace. Si la formation du mur est déjà achevée, ce sera peine perdue. S'il est en cours de formation par contre, ça peut provoquer un sacré basard chez les poulets.
+
+Les choses à ne PAS faire:
+- Jouer au plus malin et faire soi même un mur pour autre chose qu'une situation désespéré ou un gambit stratégique de génie (et dont nous reparlerons s'il réussit effectivement). 
+- Vouloir forer un tunnel dans un mur sans réfléchir 2 secondes à la signification de l'expression "prendre en tenaille".
+- Oublier que les types derrière la première ligne ne peuvent pas bouger tant que la première ligne n'est pas morte, et que cette dernière ne peut pas fuire. Vous vous le pouvez, alors retirez vous si vous fatiguez. Croyez moi sur parole, le mur n'aura pas beaucoup bougé à votre retour, et vous serez en état face à la nouvelle première ligne (ex seconde ligne).
+- Vous éloigner trop. Si vous poussez les première lignes à se désolidariser du mur sans les dégommer au fur et à mesure, ils risquent de former un damier! Conservez donc toujours un minimum de pression sur le mur pour l'obliger à rester compacte.
+
+Voilà, c'est tout. J'espère que le mur angélique n'a maintenant plus de secret pour vous. Vous le recontrerez tôt ou tard.

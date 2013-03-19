@@ -1,0 +1,254 @@
+<html><head>
+<title>Insultotron, by the M&Ms</title>
+<meta content="text/html; charset=iso-8859-1" http-equiv=Content-Type>
+<body bgcolor='#ffffff'>
+<script language=Javascript>
+
+<!---Les problèmes commencent !
+function Insultotron()
+	{
+	chaine ='' ;
+	i = document.forme.JC1.selectedIndex ;
+	chaine1 = document.forme.JC1.options[i].value ;
+	i = document.forme.JC2.selectedIndex ;
+	chaine2 = document.forme.JC2.options[i].value ;
+	i = document.forme.JC3.selectedIndex ;
+	chaine3 = document.forme.JC3.options[i].value ;
+	i = document.forme.JC4.selectedIndex ;
+	chaine4 = document.forme.JC4.options[i].value ;
+	i = document.forme.JC5.selectedIndex ;
+	chaine5 = document.forme.JC5.options[i].value ;
+	
+
+	if (document.forme.CC_effect.checked == true)
+	{chaine = '<b>' + chaine1 + chaine2 + chaine3 + chaine4 + chaine5 + '</b>';}
+	else
+	{chaine = chaine1 + chaine2 + chaine3 + chaine4 + chaine5;}
+
+	document.forme.texte.value = chaine ;
+	}
+
+function hasard()
+{
+	if (navigator.appCodeName == "Mozilla" && eval(navigator.appVersion.substring(0,3)) >= 3)
+	{
+	i = Math.random() ;
+	i = Math.floor(20*i) ;
+	document.forme.JC1.selectedIndex = i ;
+	i = Math.random() ;
+	i = Math.floor(22*i) ;
+	document.forme.JC2.selectedIndex = i ;
+	i = Math.random() ;
+	i = Math.floor(67*i) ;
+	document.forme.JC3.selectedIndex = i ;
+	i = Math.random() ;
+	i = Math.floor(22*i) ;
+	document.forme.JC4.selectedIndex = i ;
+	i = Math.random() ;
+	i = Math.floor(16*i) ;
+	document.forme.JC5.selectedIndex = i ;
+	Insultotron() ;
+	}
+	else
+	{
+	alert("\nDésolé, je ne fonctionne qu'avec Netscape 3.0 et plus.\nSeule la version manuelle de l'Insultotron est disponible.") ;
+	}
+}
+//------->
+</SCRIPT>
+</head>
+<body>
+<center>
+<table BORDER COLS=1 WIDTH="100%" bordercolor='#000000'> <tr> <td BGCOLOR="#000000"> <center>
+<b><font color="#FFFFFF"><font size=+2>L'Insultotron</font></font>
+</b></center> </td> </tr> </table></center> 
+
+<br>
+<b>Une r&eacute;alisation de la M&M's (Deyron)</b><br>
+<i>Merci au cr&eacute;ateur du pipotron dont j'ai outrageusement pomp&eacute; le code!
+<br>La M&M's d&eacute;cline toute responsabilit&eacute; quant à l'utilisation faite de l'Insultotron.</i>
+<center>
+<form action="" method=post name=forme>
+<textarea cols=71 name=texte rows=6 wrap=VIRTUAL>
+Cliquez sur le bouton et découvrez l'insulte de vos rêves!
+
+</textarea> 
+<p><input onclick=hasard() type=button value=" Insultotron "> 
+<p>
+<p>Effet CC:
+<input type="checkbox" name="CC_effect" unchecked>
+<table bgcolor='#ffffff' border=2 cellPadding=6 bordercolor='#000000'>
+  <tbody>
+  <tr>
+    <td><font size=-1><select name=JC1 onchange=Insultotron() size=10 
+        TYPE="radio"> <option selected value="Rage! ">Rage!<option 
+        value="Hey toi! ">Hey toi!<option 
+        value="Un de plus! ">Un de plus!<option 
+        value="Tais toi! ">Tais toi!<option 
+        value="Bon! ">Bon!<option 
+        value="Enfers et damnation! ">Enfers et damnation!<option 
+        value="Aaaarg! ">Aaaarg!<option 
+        value="Hey bouffon! ">Hey bouffon!<option 
+        value="Mais euh! ">Mais euh!<option
+        value="GRRRrrrr! ">GRRRrrrr!<option
+        value="Excuse moi de ce qui va suivre, mais là tu es allé trop loin. ">Excuse moi de ce qui va suivre, mais là tu es allé trop loin.<option
+        value="Ca suffit comme ça! ">Ca suffit comme ça!<option
+        value="J'en ai marre! ">J'en ai marre!<option
+        value="Tu me saoule grave là! ">Tu me saoule grave là!<option
+        value="Tu commence à me les briser! ">Tu commence à me les briser!<option
+        value="Ouai mais non! ">Ouai mais non!<option
+        value="Retenez moi ou je vais le massacrer! ">Retenez moi ou je vais le massacrer!<option
+        value="*d'un air ennuyé* ">*d'un air ennuyé*<option
+        value="*d'un air de fou furieux* ">*d'un air de fou furieux*<option
+        value="*très énervé* ">*très énervé*<option
+        value="">*</option></select> </font></td>
+
+    <td><font size=-1><select name=JC2 onchange=Insultotron() size=10 
+        TYPE="radio"> <option selected value="Gros boulet ">Gros boulet<option 
+        value="Je vais m'efforcer d'être clair, pauvre tache ">Je vais m'efforcer d'être clair, pauvre tache<option 
+        value="Espèce de tôle ">Espèce de tôle<option 
+        value="Tu n'es qu'une larve ">Tu n'es qu'une larve<option 
+        value="Sale traitre ">Sale traitre<option 
+        value="Zombie ">Zombie<option 
+        value="Immonde vermine ">Immonde vermine<option 
+        value="Suppot ">Suppot<option 
+        value="Furoncle ">Furoncle<option 
+        value="Sous dégénéré ">Sous dégénéré<option 
+        value="Crétin immonde ">Crétin immonde<option 
+        value="Espèce de mouton ">Espèce de mouton<option 
+        value="Grosse tafiole ">Grosse tafiole<option 
+        value="Pauvre rebut ">Pauvre rebut<option
+        value="Sale petite fouine ">Sale petite fouine<option
+        value="Voilà toute la fierté ">Voilà toute la fierté<option
+        value="Fils ">Fils<option
+        value="Petite créature frêle et fragile ">Petite créature frêle et fragile<option
+        value="Déjeuner sur pattes ">Déjeuner sur pattes<option
+        value="Sous raclure ">Sous raclure<option
+        value="Petit pion ">Petit pion<option
+        value="Tu va aller loin comme ça, minable suppositoire ">Tu va aller loin comme ça, minable suppositoire<option
+        value="">*</option></select> </font></td></tr>
+  <tr>
+    <td><font size=-1><select name=JC3 onchange=Insultotron() size=10 
+        TYPE="radio"> <option selected 
+        value="du paradis: ">du paradis:<option 
+        value="de l'enfer: ">de l'enfer:<option 
+        value="du Mexique: ">du Mexique:<option 
+        value="du Chili: ">du Chili:<option 
+        value="de Camelot: ">de Camelot:<option 
+        value="de la Suisse: ">de la Suisse:<option 
+        value="de la Chine: ">de la Chine:<option 
+        value="de la NSPD: ">de la NSPD:<option 
+        value="des PAF: ">des PAF:<option 
+        value="de l'OTAN: ">de l'OTAN:<option 
+        value="d'Utopia: ">d'Utopia:<option 
+        value="de la Lune: ">de la Lune:<option 
+        value="de l'Académie: ">de l'Académie:<option 
+        value="de l'AGIPC: ">de l'AGIPC:<option 
+        value="des ABBA: ">des ABBA:<option 
+        value="du Cercle Angélique: ">du Cercle Angélique:<option 
+        value="de la CdF: ">de la CdF:<option 
+        value="de Dark Angel: ">de Dark Angel:<option 
+        value="de la Dark Legion: ">de la Dark Legion:<option 
+        value="de la Dei Bellatrixes: ">de la Dei Bellatrixes:<option 
+        value="des Dragons Célestes: ">des Dragons Célestes:<option 
+        value="de la FA: ">de la FA:<option 
+        value="du GARDE: ">du GARDE:<option 
+        value="de Hunter: ">de Hunter:<option 
+        value="de l'ODAF: ">de l'ODAF:<option 
+        value="de l'Inquisition: ">de l'Inquisition:<option 
+        value="du SAS: ">du SAS:<option 
+        value="de Rédempteur: ">de Rédempteur:<option 
+        value="d'Exa: ">d'ExA: <option 
+        value="de l'ONHUST: ">de l'ONHUST:<option 
+        value="du SOLDATS: ">du SOLDATS:<option 
+        value="de la Toumaï: ">de la Toumaï:<option 
+        value="de l'Action Liberté: ">de l'Action Liberté:<option 
+        value="d'adorateur du 38: ">d'adorateur du 38:<option 
+        value="de la BdL: ">de la BdL:<option 
+        value="de journaliste: ">de journaliste:<option 
+        value="du CHIPS: ">du CHIPS:<option 
+        value="de la DDD: ">de la DDD:<option 
+        value="de l'HASSID: ">de l'HASSID:<option 
+        value="d'Hydre de l'Eden: ">d'Hydre de l'Eden:<option 
+        value="de la MAFIA: ">de la MAFIA:<option 
+        value="de l'OTAN: ">de l'OTAN:<option 
+        value="de PLIC PLOC: ">de PLIC PLOC:<option 
+        value="du RAID: ">du RAID:<option 
+        value="du Red Squadron: ">du Red Squadron:<option 
+        value="du RIP: ">du RIP:<option 
+        value="de l'ADA: ">de l'ADA:<option 
+        value="d'Arpenteur des Ombres: ">d'Arpenteur des Ombres:<option 
+        value="mon AMIS: ">de l'AMIS:<option 
+        value="du NOD: ">du NOD:<option 
+        value="de CC: ">de CC:<option 
+        value="de la Compagnie Noire: ">de la Campagnie Noire:<option 
+        value="de la Rose noire: ">de la Rose Noire:<option 
+        value="des Dark Souls: ">des Dark Souls:<option 
+        value="de Fallen Angel: ">de Fallen Angel: <option 
+        value="du FRAGh: ">du FRAGh:<option 
+        value="du GDR: ">du GDR:<option 
+        value="du GIGN: ">du GIGN:<option 
+        value="de LA: ">de LA:<option 
+        value="des LI: ">des LI:<option 
+        value="du MIRA: ">du MIRA:<option 
+        value="de l'OL: ">de l'OL:<option 
+        value="des VL: ">des VL: <option 
+        value="de la VVV: ">de la VVV:<option 
+        value="de WoW: ">de WoW:<option 
+        value="de la si brillante M&Ms: ">de la M&Ms:<option 
+        value="de la formidable DWE: ">de la DWE:<option 
+        value="">*</option></select> </font></td>
+
+    <td><font size=-1><select name=JC4 onchange=Insultotron() size=10 
+        TYPE="radio"> <option selected 
+        value="retourne jouer dans ton bac à sable">retourne jouer dans ton bac à sable<option 
+        value="va donc faire rectifier ton broshing">va donc faire rectifier ton broshing <option 
+        value="repars sur ta planête d'origine">repars sur ta planête d'origine<option 
+        value="retourne dans les jupons de ta moman">retourne dans les jupons de ta moman<option 
+        value="cours te jeter dans un gouffre">cours te jeter dans un gouffre<option 
+        value="apprends donc à lire">apprends donc à lire<option 
+        value="consulte ton psy avant qu'il ne soit trop tard">consulte ton psy avant qu'il ne soit trop tard<option 
+        value="décide toi à t'inscrire à l'AMOA">décide toi à t'inscrire à l'AMOA<option 
+        value="tu n'y peux rien si tu n'as que 2 de QI, soit, mais apprends tout de même à t'en servir">tu n'y peux rien si tu n'as que 2 de QI, soit, mais apprends tout de même à t'en servir<option 
+        value="va cueillir des paquerettes avec le MIRA">va cueillir des paquerettes avec le MIRA<option 
+        value="porte plainte pour les résultats désastreux de ta greffe de cerveau">porte plainte pour les résultats désastreux de ta greffe de cerveau<option
+        value="ils recrutent chez McDo, change donc de boulôt">ils recrutent chez McDo, change donc de boulôt<option
+        value="arrête un peu de te plaindre de tes égratignures">arrête un peu de te plaindre de tes égratignures<option
+        value="va chercher bonheur avec Universal Tatane, va">va chercher bonheur avec Universal Tatane, va<option
+        value="mais pourquoi t'es encore là, t'as pas d'amis? Va t'en acheter">mais pourquoi t'es encore là, t'as pas d'amis? Va t'en acheter<option
+        value="je comprends pas comment t'es encore en vie. Achéte un billet de loterie">je comprends pas comment t'es encore en vie. Achéte un billet de loterie<option
+        value="tu empeste! N'ouvre plus la bouche">tu empeste! N'ouvre plus la bouche<option
+        value="t'as pas honte? Cache toi">t'as pas honte? Cache toi<option
+        value="dégage de ma vue">dégage de ma vue<option
+        value="sort du lit de ma femme">sort du lit de ma femme<option
+        value="baisse le feu de la gazinière">baisse le feu de la gazinière<option
+        value="sort les poubelles">sort les poubelles<option
+        value="">*</option></select> </font></td></tr>
+  <tr>
+    <td><font size=-1><select name=JC5 onchange=Insultotron() size=10 
+        TYPE="radio"> <option selected 
+        value=" et arrête de me pomper l'air.">et arrête de me pomper l'air.<option 
+        value=" et laisse parler les grandes personnes.">et laisse parler les grandes personnes.<option 
+        value=" et arrête de manger de l'ail.">et arrête de manger de l'ail.<option 
+        value=", ce sera un inestimable cadeau pour l'humanité toute entière.">, ce sera un inestimable cadeau pour l'humanité toute entière.<option 
+        value=" et ne nous inflige plus tes phases névrotiques, je te pris.">et ne nous inflige plus tes phases névrotiques, je te pris.<option 
+        value=" et va te racheter un cerveau.">et va te racheter un cerveau.<option 
+        value=" et va beugler avec Mouh Mouh.">et va beugler avec Mouh Mouh.<option 
+        value=", tu vas faire concurence à Azurian si tu continus.">, tu vas faire concurence à Azurian si tu continus.<option 
+        value=" et réfléchis à la possibilité d'abréger tes souffrances.">et réfléchis à la possibilité d'abréger tes souffrances.<option
+        value=" et met toi dans la tête que je n'écoute même plus tes insanités.">et met toi dans la tête que je n'écoute même plus tes insanités.<option
+        value=", sinon tu va aller nourir les poissons avec tes gucci bétonnées.">, sinon tu va aller nourir les poissons avec tes gucci bétonnées.<option
+        value=" et tiens toi tranquille 2 secondes, le temps que je recharge.">et tiens toi tranquille 2 secondes, le temps que je recharge.<option
+        value=" et articule un peu, on ne comprend rien à tes gargouillis.">et articule un peu, on ne comprend rien à tes gargouillis.<option
+        value=" et meurs en silence, tu gâche ce pur moment de bonheur.">et meurs en silence, tu gâche ce pur moment de bonheur.<option
+        value=" et tire toi une balle dans la tête.">et tire toi une balle dans la tête.<option
+        value=", mais ne t'inquiéte pas, d'autres sont comme toi...en sursis.">, mais ne t'inquiéte pas, d'autres sont comme toi...en sursis.<option
+        value="">*</option></select> </font></td>
+<td><center><a href="http://demange.9online.fr/"><img style="border: 0px solid" src="./M&Ms2.png" width="350" height="173"></a></center></td>
+    
+</tr></tbody></table><br></form></p></center>
+
+<br>
+<center>Cette page est en relation avec le jeu <a href="http://www.Demange-le-jeu.com/">Demange</a></center>
+<center>Elle est optimis&eacute;e pour le navigateur <a href="http://www.mozilla.org">Mozilla</a></center>
+</body></html>

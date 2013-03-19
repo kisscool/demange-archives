@@ -1,0 +1,60 @@
+
+Comme vous avez tous pu le constater, l'une des taches les plus ennuieuses du métier de prof est de surveiller les élèves. C'est terriblement répétitif et barbant.
+Comme les laboratoires de la M&Ms n'étaient pas trop surchargés de boulôt ces derniers temps, j'en ai profité pour leur faire mettre au point un appareillage de surveillance automatisé des élèves. Il fonctionne ainsi: vous faites venir un élève ([i]Brutal s'approche de Deyron[/i]), vous lui collez ce petit émetteur sur la tête ([i]Deyron plante violemment l'émetteur sur la tête de Brutal. Un craquement se fait entendre.[/i]) et vous pouvez ensuite le suivre à la trace avec le récepteur qui, comble du modernisme, n'explose plus à la figure de son propriétaire.
+
+[i]Brutal fait quelques pas, tandis que Deyron le surveille sur l'écran de son récepteur, puis il s'effondre lourdement sur le sol. Une équipe médicale arrive et emporte Brutal sur une civière tout en essayant d'extraire l'émetteur de son crane.[/i]
+
+Euh, oui. C'est presque parfait, donc. Je l'ai appelé le [b]DWEmonitor[/b], et je crois que vous allez en raffoler.
+
+
+---HRP---
+
+Etant un gros paresseux, j'ai décidé de me bricoler un petit script qui aurait pour tache de récolter les données des feuilles d'événements de mes élèves, puis de les réorganiser en une seule page html de synthèse. Ce script peut être trouvé [url=http://kisscool.avenue.free.fr/demange/DWEmonitor.pl]ici[/url].
+
+[u]Installation:[/u]
+
+Pour utiliser ce script, vous devez avoir le langage Perl installé sur votre ordinateur. 
+* Si vous utilisez Linux, il est probablement déjà installé sur votre système. Si ce n'était pas le cas, rendez vous sur http://www.perl.org/ pour réparer cet oubli.
+* Si vous utilisez Windows, allez sur http://www.activestate.com/ pour télécharger leur distribution de Perl pour Windows. C'est un peu le bazard sur leur site, mais vous devriez tout de même trouver assez facilement.
+
+Ce script utilise le module LWP, généralement présent par défaut dans toutes les installations de Perl. Mais si jamais votre système ne le posséde pas, vous pouvez vous le procurer sur http://www.cpan.org/
+
+Pourquoi avoir programmé en Perl? Parceque je ne voulais pas me prendre la tête, que la connexion s'y fait en trois lignes, qu'il gére la manipulation de texte à la perfection, et que c'est facilement portable.
+
+[u]Utilisation:[/u]
+
+Editez le script DWEmonitor.pl avec un éditeur de texte. Au tout début (8ième ligne) se trouve une liste des matricules qui seront surveillés. Mettez ceux de vos élèves séparés par des virgules. Par exemple, pour la Section Dragon, la ligne des matricules ressemble à ceci:
+[quote]@mat = (68083,67653,52569,70191,76062,72659,70115);[/quote]
+Enregistrez ensuite vos modifications et lancez le script. Ce dernier créera un fichier "eleves.htm" contenant la synthèse, dans le répertoire courant.
+
+J'ai abondamment commenté le code, il ne devrait donc pas être difficile de modifier le script s'il vous en prend l'envie. Néanmoins, si vous désirez modifier le nombre d'événements affichés et que vous ne comprenez pas comment faire, contactez moi. Je vous donnerais la marche à suivre.
+
+[u]Known bugs:[/u]
+
+- Le code est très primitif. Vu sa taille, ça ne porte pas à conséquence, mais ça nuit certainement à son élégance.
+- Je ne sais pas si c'est possible, mais si vous tombez sur un élève s'appelant "</h2>", vous risquez d'avoir des surprises (heureusement, les programmeurs de Demange dégommeraient rapidement un tel plaisantin).
+- L'introduction d'un point virgule dans un événement peut poser un problème mineur au script.
+- Par défaut, le script relève les 7 événements les plus récents du matricule surveillé (chiffre modifiable), mais si jamais ce matricule ne totalise pas au moins 7 événements dans sa feuille d'événements (zombi ou tout nouveaux joueur), le script n'arrivera pas à en relever un seul. Je sais c'est idiot, mais pour pallier à ce problème je devrais considérablement allourdir le code (et ma migraine).
+- La collecte des événements tient du bidouillage, mais comme je suis faché avec les expressions régulières, je n'ai pas trouvé mieux.
+- La récolte des infos ne s'effectue pas en parallèle. D'une part pour ne pas saturer le serveur de Demange (déjà assez fatigué comme ça), et d'autre part pour me faciliter la vie. Celà signifie que la vitesse d'éxécution du script dépend étroitement de la vitesse de votre connexion internet. 
+
+[u]Shell scripts:[/u]
+
+Il faut encore lancer le script, puis la page html. C'est trop d'opérations pour qui veut vraiment se simplifier la vie. Alors voici quelques exemple de shells scripts qui, après adaptation pour votre système, devraient faire votre bonheur.
+
+DWEmonitor.sh (Linux, Mozilla)
+[quote]
+#!/bin/sh
+cd /[i]répertoire-du-script[/i]
+perl ./DWEmonitor.pl
+/usr/local/bin/mozilla ./eleves.htm
+[/quote]
+
+DWEmonitor.bat (Windows, Internet Explorer)
+[quote]
+cd C:\[i]répertoire-du-script[/i]
+DWEmonitor.pl
+"C:\Program Files\Internet Explorer\IEXPLORE.EXE" C:\[i]répertoire-du-script[/i]\eleves.htm
+[/quote]
+
+---HRP---
