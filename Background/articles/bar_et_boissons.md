@@ -1,3 +1,9 @@
+*Vous entrez courageusement dans la salle, affrontant la cacophonie permanente du Bar. Anges, démons, humains ... et autres se cotoient quotidiennement ici, en terrain (presque) neutre, afin de se rencontrer, échanger des informations et, surtout, vider le bar de sa prodigieuse réserve d'alcools.*  
+*Au bar, Dionysos sert les clients avec son talent et sa verve habituelle. On ne croirait pas qu'il sort d'une longue période de chomage consécutive à l'effondrement du tourisme asiatique, et il semble particulièrement guilleret d'avoir ainsi retrouvé une branche d'activité proche de ses jobs étudiants de l'ancien temps.*  
+*Dans les ombres du fond de la salle, une chaise racle et une silhouette se lêve. Le proprio se rend au comptoir.*  
+*Vous déglutissez.*
+
+
 Le Bar
 ------
 
@@ -8,11 +14,6 @@ De la constatation de cette curiosité sont nées 2 théories majeures:
 - la théorie dite du trou noir éthylique, qui tend à prouver qu'un bar représente la plus puissante source d'énergie de l'univers, et qu'il englobe en fait l'univers lui même (ce qui pour la plupart des clients n'est pas faux).
 
 La plupart des bars légendaires possédent une boisson attitrée qui fait leur réputation. Pour le bar du BLOCK, il s'agit de l'Absence. Pour celui de la DWE, de l'Arrache Boyau Pan-Galactique. Et concernant la FA, il s'agit du célèbre lait-grenadine.
-
-*Vous entrez courageusement dans la salle, affrontant la cacophonie permanente du Bar. Anges, démons, humains ... et autres se cotoient quotidiennement ici, en terrain (presque) neutre, afin de se rencontrer, échanger des informations et, surtout, vider le bar de sa prodigieuse réserve d'alcools.*  
-*Au bar, Dionysos sert les clients avec son talent et sa verve habituelle. On ne croirait pas qu'il sort d'une longue période de chomage consécutive à l'effondrement du tourisme asiatique, et il semble particulièrement guilleret d'avoir ainsi retrouvé une branche d'activité proche de ses jobs étudiants de l'ancien temps.*  
-*Dans les ombres du fond de la salle, une chaise racle et une silhouette se lêve. Le proprio se rend au comptoir.*  
-*Vous déglutissez.*
 
 
 Arrache Boyau Pan-Galactique
